@@ -1,10 +1,7 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
 
-package Homework4;
 
 /**
  * This class represents a station where passengers embark the train from
