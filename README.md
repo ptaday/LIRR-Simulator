@@ -41,11 +41,11 @@ $ cd LIRR-Simulator
 ## Usage
 To compile 
 ```bash
-$ javac LirrSimulator.java
+$ javac LIRRSimulator.java
 ```
 Run the DeliveryListManager application from the command line.
 ```bash
-$ java LirrSimulator
+$ java LIRRSimulator
 ```
 Follow the on-screen prompts to provide input for passenger probabilities, train schedule, and other simulation parameters.
 
