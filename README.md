@@ -24,11 +24,11 @@
 The LIRR-Simulator project models the Long Island Rail Road (LIRR) morning service with two classes of passengers - first and second class. It aims to calculate the average wait time for passengers of each class at different stations and the number of passengers served. The simulation considers passenger arrivals at stations with probabilities for first and second-class passengers. Trains start at Huntington every 5 minutes and take 5 minutes between stations. The simulation also allows specifying a time when passengers stop showing up for the morning commute.
 
 ## Prerequisites
+To run the DeliveryListManager project, ensure you have the following installed on your computer:
 
-To run the LIRR-Simulator project, ensure you have the following installed on your computer:
+Java Development Kit (JDK) 1.8 or later
+Git (optional, for cloning the repository)
 
-- Visual Studio with VB.Net support
-- Git (optional, for cloning the repository)
 
 ## Installation
 
@@ -50,6 +50,8 @@ $ java Main
 Follow the on-screen prompts to provide input for passenger probabilities, train schedule, and other simulation parameters.
 
 The simulation will calculate the average wait time for first and second-class passengers at each station and display the number of passengers served.
+
+Keep in my mind to create a package name and include the package name in all the classes.
 
 ## Required Classes
 ### Passenger
