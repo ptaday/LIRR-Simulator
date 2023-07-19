@@ -1,9 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-package Homework4;
 
 /**
  * This class represents a passenger with a id, arrival time and a boolean for isFirstClass.
