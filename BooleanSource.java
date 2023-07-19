@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework4;
 
 /**
  * The class represents boolean source which helps with the probability of the people at the station
