@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework4;
 
 /**
  * This class represents queue of passengers
